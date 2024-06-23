@@ -333,7 +333,7 @@ Suivre France Culture
      * L'application Radio France est disponible sur Google Play
      * Télécharger l'application Radio France dans l'App Store
 </text>
-</page>
+</page> §
 <page="all_fr-10">
 <text>
    #Le pigeon décoiffé » Flux Le pigeon décoiffé » Flux des commentaires
@@ -581,7 +581,7 @@ Abonnez vous à notre infolettre!
 
    Aller en haut
 </text>
-</page>
+</page> §
 <page="all_fr-11">
 <text>
     #Rebelle(s) Mag » Flux Rebelle(s) Mag » Flux des commentaires
@@ -1087,7 +1087,7 @@ Récupérez votre mot de passe
 
    (BUTTON) Yes (BUTTON) Non
 </text>
-</page>
+</page> §
 <page="all_fr-12">
 <text>
    #Football 365 » Flux
@@ -1318,7 +1318,7 @@ Top joueur
      * Livefoot.fr
      * Gestion des cookies
 </text>
-</page>
+</page> §
 <page="all_fr-13">
 <text>
    #Le Patriote Beaujolais : Sorties
@@ -1710,7 +1710,7 @@ Le spectacle Naissance d’une abbaye à l’abbatiale Notre-Dame de Belleville
    (BUTTON) Continuer sans accepter
    (BUTTON) Accepter et continuer
 </text>
-</page>
+</page> §
 <page="all_fr-14">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WX8PHK9
@@ -2000,7 +2000,7 @@ Vous voulez écrire ?
 
    Droits d'auteur © 2010–2024, The Conversation France (assoc. 1901)
 </text>
-</page>
+</page> §
 <page="all_fr-15">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5X4M
@@ -2382,7 +2382,7 @@ Autour de Michel Drucker
    © 2024 Prisma Média - Groupe Vivendi - Partenaire Média-Presse - Tous
    droits réservés
 </text>
-</page>
+</page> §
 <page="all_fr-16">
 <text>
     #JForum » Flux JForum » Flux des commentaires JForum » L’Ironie de
@@ -2771,7 +2771,7 @@ Articles du moment
 
    Verified by MonsterInsights
 </text>
-</page>
+</page> §
 <page="all_fr-17">
 <text>
     [ ] Menu Fermer
@@ -3217,7 +3217,7 @@ A la Une
    © Copyright 2006-2024 BFMTV.com. Tous droits réservés. Site édité par
    NextInteractive
 </text>
-</page>
+</page> §
 <page="all_fr-18">
 <text>
      * Contenu
@@ -3671,7 +3671,7 @@ Suivre France Culture
      * L'application Radio France est disponible sur Google Play
      * Télécharger l'application Radio France dans l'App Store
 </text>
-</page>
+</page> §
 <page="all_fr-19">
 <text>
    #alternate alternate
@@ -3921,7 +3921,7 @@ Dans l’œil de Maxime Riché : après le drame, l’ironie des publicitaires
 
    Voir l'article
 </text>
-</page>
+</page> §
 <page="all_fr-2">
 <text>
    #alternate
@@ -4620,7 +4620,7 @@ Newsletter Philomag
    (BUTTON) Fermer×
    (BUTTON) ×
 </text>
-</page>
+</page> §
 <page="all_fr-20">
 <text>
     (BUTTON) Menu BFMTV
@@ -4916,7 +4916,7 @@ A la Une
    © Copyright 2006-2024 BFMTV.com. Tous droits réservés. Site édité par
    NextInteractive
 </text>
-</page>
+</page> §
 <page="all_fr-21">
 <text>
    [tr?id=714463525321423&amp;ev=PageView&amp;noscript=1]
@@ -5153,7 +5153,7 @@ Peut-on les former à le comprendre?
    (BUTTON) Liste de lecture
    (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_fr-22">
 <text>
    #VAROCLIER Avocats Paris - Cabinet d'affaires créé par Jacques
@@ -5392,7 +5392,7 @@ DEMO, CLERO, STOCHO OU PRAF* ?
    © 2016 VAROCLIER Avocats Paris - Cabinet d'affaires créé par Jacques
    Varoclier.
 </text>
-</page>
+</page> §
 <page="all_fr-23">
 <text>
    #L'Astre et la Plume » Flux L'Astre et la Plume » Flux des commentaires
@@ -5805,7 +5805,7 @@ Laisser un commentaireAnnuler la réponse.
 
    %d
 </text>
-</page>
+</page> §
 <page="all_fr-24">
 <text>
     #Le Monde.fr : L'époque
@@ -6319,7 +6319,7 @@ Le Monde Jeux
      * TikTok
      * Fils RSS
 </text>
-</page>
+</page> §
 <page="all_fr-25">
 <text>
    #Laboratoire Parole et Langage » Flux Laboratoire Parole et Langage »
@@ -6475,7 +6475,7 @@ T is for Treu, but how do you pronounce that?
 
    Social media &amp; sharing icons powered by UltimatelySocial
 </text>
-</page>
+</page> §
 <page="all_fr-26">
 <text>
    #CreerUnQuestionnaire.fr » Flux CreerUnQuestionnaire.fr » Flux des
@@ -6813,7 +6813,7 @@ En savoir plus sur CreerUnQuestionnaire.fr
 
    (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_fr-27">
 <text>
    Menu
@@ -7106,7 +7106,7 @@ Lumières obliques. Ironie et dialogues au XVIIIe siècle
 
    Mentions légales
 </text>
-</page>
+</page> §
 <page="all_fr-28">
 <text>
    #light up my mind » Flux light up my mind » Flux des commentaires light
@@ -7452,7 +7452,7 @@ Méta
 
    %d
 </text>
-</page>
+</page> §
 <page="all_fr-29">
 <text>
    #alternate alternate alternate alternate
@@ -7777,7 +7777,7 @@ Focus sur... « Red with Red Triptych » de Bridget Riley
    Mentions légales - Plan du site - CGU - Données personnelles - Gestion
    des cookies
 </text>
-</page>
+</page> §
 <page="all_fr-3">
 <text>
    #In Bed With Tech
@@ -7970,7 +7970,7 @@ Post-ironie : l’éthos de notre temps ?
    This site requires JavaScript to run correctly. Please turn on
    JavaScript or unblock scripts
 </text>
-</page>
+</page> §
 <page="all_fr-30">
 <text>
    #alternate alternate (href-lang-link) alternate (href-lang-link)
@@ -8213,7 +8213,7 @@ Select international site
      * Türkiye
      * United States
 </text>
-</page>
+</page> §
 <page="all_fr-31">
 <text>
    #MAManestPsychoMot » Flux MAManestPsychoMot » Flux des commentaires
@@ -8441,7 +8441,7 @@ Laisser un commentaire Annuler la réponse
 
    Copyright 2024 © MAManestPsychoMot Tous droits réservés.
 </text>
-</page>
+</page> §
 <page="all_fr-32">
 <text>
    #LEBIGDATA.FR » Flux LEBIGDATA.FR » Flux des commentaires alternate
@@ -8796,7 +8796,7 @@ Comparo / Test / Top
 
      Copyright © 2024 Groupe Publithings. Tous droits réservés.
 </text>
-</page>
+</page> §
 <page="all_fr-33">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WX8PHK9
@@ -9048,7 +9048,7 @@ Vous voulez écrire ?
 
    Droits d'auteur © 2010–2024, The Conversation France (assoc. 1901)
 </text>
-</page>
+</page> §
 <page="all_fr-34">
 <text>
 
@@ -9353,7 +9353,7 @@ Comment être drôle? Essayez le sarcasme, c'est bon pour vous
 
    #Le HuffPost : Life
 </text>
-</page>
+</page> §
 <page="all_fr-35">
 <text>
 
@@ -10109,7 +10109,7 @@ Derrière les mots
 
    Développement | beyowi.com - Design | Emmanuelle Roncin et Beyowi
 </text>
-</page>
+</page> §
 <page="all_fr-36">
 <text>
    #alternate
@@ -10284,7 +10284,7 @@ Select international site
      * Türkiye
      * United States
 </text>
-</page>
+</page> §
 <page="all_fr-37">
 <text>
     (BUTTON) Menu BFM Business
@@ -10531,7 +10531,7 @@ A la Une
    © Copyright 2006-2024 BFMTV.com. Tous droits réservés. Site édité par
    NextInteractive
 </text>
-</page>
+</page> §
 <page="all_fr-38">
 <text>
    #Les Définitions RSS Feed Les Définitions Atom Feed Les Définitions »
@@ -10608,7 +10608,7 @@ Définition de sarcasme
    top
    Powered by WordPress
 </text>
-</page>
+</page> §
 <page="all_fr-39">
 <text>
    #wikiHow (fr) alternate alternate alternate alternate alternate
@@ -11312,7 +11312,7 @@ Articles tendance
 
    389
 </text>
-</page>
+</page> §
 <page="all_fr-4">
 <text>
    #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
@@ -11742,7 +11742,7 @@ Notes et références[modifier | modifier le code]
 
      *
 </text>
-</page>
+</page> §
 <page="all_fr-40">
 <text>
    IFRAME: /study/login/silent
@@ -12006,7 +12006,7 @@ Notes et références[modifier | modifier le code]
 
    (BUTTON) (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_fr-41">
 <text>
    Logo Leeve (BUTTON)
@@ -12112,7 +12112,7 @@ Comment gérer le sarcasme dans un contexte international ?
    is a way of meeting new people, thinking differently and to being
    open-minded, we want to offer these experiences to everyone with Leeve!
 </text>
-</page>
+</page> §
 <page="all_fr-42">
 <text>
     #Sciencepost » Flux Sciencepost » Flux des commentaires alternate
@@ -12250,7 +12250,7 @@ Suivez-nous sur Facebook
 
    Search for: ____________________ (BUTTON) Search
 </text>
-</page>
+</page> §
 <page="all_fr-43">
 <text>
    #Out the Box ! - Boostez votre créativité et votre Culture G » Flux Out
@@ -12448,7 +12448,7 @@ Laisser un commentaire Annuler la réponse
 
    Copyright Out the Box 2022 - Mentions légales
 </text>
-</page>
+</page> §
 <page="all_fr-44">
 <text>
    actu.fr (BUTTON) Nos régions
@@ -12924,7 +12924,7 @@ France
    Services en bas de cette page.
    Consulter
 </text>
-</page>
+</page> §
 <page="all_fr-45">
 <text>
    LinkedIn and 3rd parties use essential and non-essential cookies to
@@ -13142,7 +13142,7 @@ Explore topics
 
    (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_fr-46">
 <text>
    [tr?id=714463525321423&amp;ev=PageView&amp;noscript=1]
@@ -13379,7 +13379,7 @@ Peut-on les former à le comprendre?
    (BUTTON) Liste de lecture
    (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_fr-47">
 <text>
    #alternate
@@ -13593,7 +13593,7 @@ Select international site
      * Italie
      * Royaume-Uni
 </text>
-</page>
+</page> §
 <page="all_fr-48">
 <text>
    #Mentorat Québec » Flux Mentorat Québec » Flux des commentaires
@@ -13921,7 +13921,7 @@ adresse.
 
    [tr?id=299839098164919&amp;amp;ev=PageView&amp;amp;noscript=1]
 </text>
-</page>
+</page> §
 <page="all_fr-49">
 <text>
    [tr?id=1691063087928925&amp;ev=PageView&amp;noscript=1]
@@ -14207,7 +14207,7 @@ Tendance
 
    Quantcast
 </text>
-</page>
+</page> §
 <page="all_fr-5">
 <text>
    #Publisher alternate alternate alternate alternate alternate alternate
@@ -15053,7 +15053,7 @@ Essayez 1 Mois Pendant
      * Nouveaux Clients Uniquement
      * Plein Prix Après Offre de Lancement
 </text>
-</page>
+</page> §
 <page="all_fr-50">
 <text>
    #Le Cahier » Le sarcasme, l’ironie, l’humour noir et le cynisme Flux
@@ -15215,7 +15215,7 @@ Les plus populaires
      * Politique de confidentialité
      * Contactez-nous
 </text>
-</page>
+</page> §
 <page="all_fr-51">
 <text>
    #Parents.fr - Bientôt ou déjà parents, on vous accompagne Bébé et
@@ -15543,7 +15543,7 @@ les newsLetters
 
    (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_fr-52">
 <text>
    #alternate alternate (href-lang-link) alternate (href-lang-link)
@@ -16010,7 +16010,7 @@ Select international site
      * Türkiye
      * United States
 </text>
-</page>
+</page> §
 <page="all_fr-53">
 <text>
    #alternate
@@ -16390,7 +16390,7 @@ Paris 2024 : la Seine est encore trop polluée, à un mois et demi des épreuves
    Je m'abonne
    Voir plus/moins
 </text>
-</page>
+</page> §
 <page="all_fr-54">
 <text>
     #Le Monde.fr : Les Décodeurs
@@ -16874,7 +16874,7 @@ Services Le Monde
      * TikTok
      * Fils RSS
 </text>
-</page>
+</page> §
 <page="all_fr-55">
 <text>
    #alternate
@@ -17126,7 +17126,7 @@ comparatif des programmes
    Je m'abonne
    Voir plus/moins
 </text>
-</page>
+</page> §
 <page="all_fr-6">
 <text>
    #alternate alternate alternate alternate alternate alternate alternate
@@ -17350,7 +17350,7 @@ Notre équipe
    ©2024 SoCreate. Tous droits réservés.  |  Condidentialité | (BUTTON)
    Contactez-nous
 </text>
-</page>
+</page> §
 <page="all_fr-7">
 <text>
    [p?c1=2&amp;amp;c2=3005690&amp;amp;cv=3.6.0&amp;amp;cj=1]
@@ -17849,7 +17849,7 @@ Notre équipe
    Conditions d'utilisation| Politique de confidentialité| Registre de
    publicité électorale| Code de conduite
 </text>
-</page>
+</page> §
 <page="all_fr-8">
 <text>
    #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
@@ -18089,7 +18089,7 @@ Références[modifier | modifier le code]
 
      *
 </text>
-</page>
+</page> §
 <page="all_fr-9">
 <text>
    Connexion
@@ -18249,5 +18249,5 @@ Contact
    honorechampion.com, vous acceptez notre politique en matière de
    cookies.
 </text>
-</page>
+</page> §
 </lang>

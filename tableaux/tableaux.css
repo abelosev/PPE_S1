@@ -3,7 +3,7 @@
   }
   
   table {
-	max-width: 100%;
+	max-width: 80%;
 	border-collapse: collapse;
 	margin-bottom: 20px;
 	padding: 20px;
@@ -24,7 +24,7 @@
 	padding: 10px;
 	border: 1px solid #ccc;
   }
-  
+
   tr:hover {
 	background-color: #f2eef3;
   }

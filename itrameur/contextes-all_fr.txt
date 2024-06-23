@@ -77,7 +77,7 @@ L’ironie de Flaubert : un jeu dans le discours libre
 
 La radio
 </text>
-</page>
+</page> §
 <page="all_fr-10">
 <text>
    CONNEXION
@@ -142,7 +142,7 @@ Pourquoi utiliser l’ironie en littérature
    trouve son origine dans le sentiment de contrariété plutôt que dans
    l’acceptation.
 </text>
-</page>
+</page> §
 <page="all_fr-11">
 <text>
     #Rebelle(s) Mag » Flux Rebelle(s) Mag » Flux des commentaires
@@ -210,7 +210,7 @@ Dossier du Mois : L’Ironie (cliquez ici)
      * Échelle de nombre 10 mai 2024
      * Bob Marley, prophète rasta d’une fraternité universelle et laïque –
 </text>
-</page>
+</page> §
 <page="all_fr-12">
 <text>
      euro 2024
@@ -233,7 +233,7 @@ Dossier du Mois : L’Ironie (cliquez ici)
        critiques sur Mbappé, affirmant ne pas être inquiet pour son
        capitaine.
 </text>
-</page>
+</page> §
 <page="all_fr-13">
 <text>
     1. Sorties
@@ -277,7 +277,7 @@ Dossier du Mois : L’Ironie (cliquez ici)
    rassemble des artistes dans les domaines de la musique, de la danse et
    du théâtre", souligne Sandrine Besacier alias Miss Ash.
 </text>
-</page>
+</page> §
 <page="all_fr-14">
 <text>
 
@@ -413,7 +413,7 @@ Le charme discret de l’ironie
    transfuge de classe qui s’inscrivent par la suite dans l’héritage de
    l’œuvre d’Annie Ernaux.
 </text>
-</page>
+</page> §
 <page="all_fr-15">
 <text>
     3. Société
@@ -443,7 +443,7 @@ Où Michel Drucker a-t-il fait son service militaire ?
        service militaire là où mon père était interné pendant la Seconde
        Guerre mondiale"
 </text>
-</page>
+</page> §
 <page="all_fr-16">
 <text>
     #JForum » Flux JForum » Flux des commentaires JForum » L’Ironie de
@@ -489,7 +489,7 @@ L’Ironie de l’Inversion des Valeurs en Politique Française
    choix politiques et de leur impact à long terme. Si la gauche et la
    droite avaient agi différemment, le paysage politique serait
 </text>
-</page>
+</page> §
 <page="all_fr-17">
 <text>
    Euro 2024
@@ -497,7 +497,7 @@ L’Ironie de l’Inversion des Valeurs en Politique Française
 Euro 2024: "Je suis plutôt sur le banc, côté gauche", l’ironie de Pavard sur
 son positionnement et son temps de jeu
 </text>
-</page>
+</page> §
 <page="all_fr-18">
 <text>
 
@@ -527,7 +527,7 @@ la part d'ironie" de l'auteur
 
 La radio
 </text>
-</page>
+</page> §
 <page="all_fr-19">
 <text>
    (BUTTON) Fermer le menu
@@ -550,7 +550,7 @@ Dans l’œil de Maxime Riché : après le drame, l’ironie des publicitaires
    en Californie : après le drame du mégafeu Camp Fire, en 2018, nombre
    des 26 000 personnes qui y vivaient n’ont pas pu revenir faute de
 </text>
-</page>
+</page> §
 <page="all_fr-2">
 <text>
    (Apply) Apply
@@ -605,7 +605,7 @@ Ironie
 
    Philosophie magazine : les grands philosophes, la préparation au bac
 </text>
-</page>
+</page> §
 <page="all_fr-20">
 <text>
 
@@ -620,7 +620,7 @@ ironie "pour sa victoire écrasante"
    ironie ce vendredi 15 mars le président russe Vladimir Poutine pour sa
    réélection alors même que le vote avait à peine débuté.
 </text>
-</page>
+</page> §
 <page="all_fr-21">
 <text>
    Parents &amp; enfants
@@ -730,7 +730,7 @@ Peut-on les former à le comprendre?
    apprentissage
    Partager
 </text>
-</page>
+</page> §
 <page="all_fr-22">
 <text>
    Varoclier » Flux VAROCLIER Avocats Paris - Cabinet d'affaires créé par
@@ -788,7 +788,7 @@ Humour ou Ironie ?
    une chose au sérieux afin d’en mieux démontrer le ridicule ; elle est
    alors un exercice dialectique qui vainc l’imposture par le recours 
 </text>
-</page>
+</page> §
 <page="all_fr-23">
 <text>
    #L'Astre et la Plume » Flux L'Astre et la Plume » Flux des commentaires
@@ -1035,7 +1035,7 @@ Articles similaires
 
     1.
 </text>
-</page>
+</page> §
 <page="all_fr-24">
 <text>
      * L'époque
@@ -1101,7 +1101,7 @@ Comprendre le double sens
    fillette trop soucieuse de son apparence – « Tu devrais mettre une robe
    plus voyante encore ! » – ou à houspiller le fiston procrastinateur –
 </text>
-</page>
+</page> §
 <page="all_fr-25">
 <text>
 
@@ -1135,7 +1135,7 @@ Comprendre le double sens
    que les hommes et confirment, d’autre part, le rôle central du contexte
    étudié par ailleurs sous la forme de l’incongruité contextuelle entre
 </text>
-</page>
+</page> §
 <page="all_fr-26">
 <text>
    #CreerUnQuestionnaire.fr » Flux CreerUnQuestionnaire.fr » Flux des
@@ -1251,7 +1251,7 @@ Conclusion
    contraire…). La meilleure solution, pour vous, pour vos participants et
    pour la qualité de vos réponses est à intégrer dès la conception de
 </text>
-</page>
+</page> §
 <page="all_fr-27">
 <text>
 Littérature
@@ -1429,7 +1429,7 @@ Lumières obliques. Ironie et dialogues au XVIIIe siècle
 
     Si cette lecture vous a été utile, aidez-nous à vous en proposer d'autres !
 </text>
-</page>
+</page> §
 <page="all_fr-28">
 <text>
    #light up my mind » Flux light up my mind » Flux des commentaires light
@@ -1530,7 +1530,7 @@ Faut-il en finir avec l’ironie ?
    13 juin 2018 in Société. Tags:critique, Dominique Pourquery, ironie,
    mal français, moquerie, ordre établi, politique, pouvoir, raillerie
 </text>
-</page>
+</page> §
 <page="all_fr-29">
 <text>
    Collection
@@ -1595,7 +1595,7 @@ Faut-il en finir avec l’ironie ?
    cette définition parfaite de l’art : « L’apparence n’est pas rien,
    quoiqu’elle ne soit pas vraie. » ◼
 </text>
-</page>
+</page> §
 <page="all_fr-3">
 <text>
    Share this post
@@ -1679,7 +1679,7 @@ Post-ironie : l’éthos de notre temps ?
 
    mariedolle.substack.com
 </text>
-</page>
+</page> §
 <page="all_fr-30">
 <text>
    Relation
@@ -1817,7 +1817,7 @@ Quel sens donner au sarcasme dans le couple ?
 
    Mots cléscoupleamourRelationsBien-être
 </text>
-</page>
+</page> §
 <page="all_fr-31">
 <text>
    #MAManestPsychoMot » Flux MAManestPsychoMot » Flux des commentaires
@@ -1983,7 +1983,7 @@ En famille, adapter son sarcasme à son enfant
    tort, il peut blesser. Tout est une question de dosage, de vigilance et
    d’ajustements au cas par cas pour en faire un outil pédagogique à la
 </text>
-</page>
+</page> §
 <page="all_fr-32">
 <text>
           + MYPE
@@ -2096,7 +2096,7 @@ Le fonctionnement du détecteur de sarcasme
 
 Groupe Publithings
 </text>
-</page>
+</page> §
 <page="all_fr-33">
 <text>
 
@@ -2192,7 +2192,7 @@ Peut-on les former à le comprendre ?
    lorsque l’expéditeur utilisait une intonation sarcastique, mais
    échouaient sans cet indice d’intonation, même lorsque le contexte
 </text>
-</page>
+</page> §
 <page="all_fr-34">
 <text>
    Life 10/12/2015 06:36
@@ -2296,7 +2296,7 @@ Comment être drôle? Essayez le sarcasme, c'est bon pour vous
    la culture pop et les commentaires sur les réseaux sociaux, il est plus
    facile que jamais d’étaler son humour grinçant.
 </text>
-</page>
+</page> §
 <page="all_fr-35">
 <text>
      __________________________________________________________________
@@ -2353,7 +2353,7 @@ Décoder le sarcasme
    beaucoup plus développées dans les familles des classes supérieures. «
    On y développe un imaginaire chez l’enfant, on l’habitue aussi à faire
 </text>
-</page>
+</page> §
 <page="all_fr-36">
 <text>
    SCIENCES
@@ -2410,7 +2410,7 @@ Le sarcasme serait une preuve d'intelligence selon une étude
    Voici la preuve que le sarcasme dans le couple mène toujours à une
    impasse
 </text>
-</page>
+</page> §
 <page="all_fr-37">
 <text>
    International
@@ -2458,7 +2458,7 @@ Une pratique à double tranchant
    augmenter la créativité. Et non générer des tensions. En somme,
    chérissez les personnes caustiques qui vous sont proches. Elles vous
 </text>
-</page>
+</page> §
 <page="all_fr-38">
 <text>
    #Les Définitions RSS Feed Les Définitions Atom Feed Les Définitions »
@@ -2516,7 +2516,7 @@ Définition de sarcasme
    explicite par l’usage des guillemets ou des majuscules : « Quelle
    ‘bonne humeur’ tu as ce matin », « Le prix a été un GRAND exploit de ta
 </text>
-</page>
+</page> §
 <page="all_fr-39">
 <text>
    Cet article a été consulté 104 177 fois.
@@ -2652,7 +2652,7 @@ Améliorer sa capacité de faire du sarcasme
        de la pratique. En renforçant vos réflexes, vous manierez mieux cet
        art. Continuez à vous exercer, même si votre entourage pense que
 </text>
-</page>
+</page> §
 <page="all_fr-4">
 <text>
        (BUTTON) Afficher / masquer la sous-section Théorie
@@ -2856,7 +2856,7 @@ Notes et références[modifier | modifier le code]
      * Ironie
      * Romantisme
 </text>
-</page>
+</page> §
 <page="all_fr-40">
 <text>
 
@@ -2928,7 +2928,7 @@ Notes et références[modifier | modifier le code]
    humour. Malgré le sourire extérieur, la plupart des gens qui reçoivent
    des commentaires sarcastiques se sentent abattus^6… » Pensez aux
 </text>
-</page>
+</page> §
 <page="all_fr-41">
 <text>
      * FRi | EN i | DE
@@ -3071,7 +3071,7 @@ Comment gérer le sarcasme dans un contexte international ?
    anglais. Peut-être une autre preuve que le sarcasme n’est pas universel
    !
 </text>
-</page>
+</page> §
 <page="all_fr-42">
 <text>
    [INS: :INS]
@@ -3121,7 +3121,7 @@ Identifier des mots repères sarcastiques
    ligne. Toutefois, si l’IA atteint un jour un très haut niveau de
    performance, nul doute que les grands réseaux sociaux s’intéresseront 
 </text>
-</page>
+</page> §
 <page="all_fr-43">
 <text>
    the Box ! - Boostez votre créativité et votre Culture G » Flux des
@@ -3233,7 +3233,7 @@ Recherches associées :
        même de l’intelligence
        Répondre
 </text>
-</page>
+</page> §
 <page="all_fr-44">
 <text>
     2. Loisirs-Culture
@@ -3256,7 +3256,7 @@ savoir ce que c'était »
 
    Il va s’en tenir à ça jusqu’en 2015/16. « Il ne se passe rien pendant
 </text>
-</page>
+</page> §
 <page="all_fr-45">
 <text>
    Join now Sign in
@@ -3290,7 +3290,7 @@ Ironie ou sarcasme?
    « Entre le sarcasme et l’ironie, il y a la même distance qu’entre un
    rot et un soupir. »
 </text>
-</page>
+</page> §
 <page="all_fr-46">
 <text>
    Parents &amp; enfants
@@ -3400,7 +3400,7 @@ Peut-on les former à le comprendre?
    apprentissage
    Partager
 </text>
-</page>
+</page> §
 <page="all_fr-47">
 <text>
    ACTUALITÉS
@@ -3416,7 +3416,7 @@ Elon Musk lance une IA qui adore le sarcasme
    fonctionnalité a été démontrée par Elon Musk en personne lorsqu'il a
    dévoilé un extrait du type de réponse que pouvait fournir l'IA sur son
 </text>
-</page>
+</page> §
 <page="all_fr-48">
 <text>
    #Mentorat Québec » Flux Mentorat Québec » Flux des commentaires
@@ -3430,7 +3430,7 @@ Elon Musk lance une IA qui adore le sarcasme
 Éviter le sarcasme, s’habiller pour impressionner: Des conseils pour le
 mentorat à distance
 </text>
-</page>
+</page> §
 <page="all_fr-49">
 <text>
 
@@ -3667,7 +3667,7 @@ Le sarcasme dans les citation sans humour
 
    [c2f6eea1e9d4598b.jpg?imwidth=900]
 </text>
-</page>
+</page> §
 <page="all_fr-5">
 <text>
     3. Arts de la Langue Anglaise
@@ -4387,7 +4387,7 @@ Questions fréquentes sur l'ironie
    © 2024 - Clever Prototypes, LLC - Tous les droits sont réservés.
    StoryboardThat est une marque déposée de Clever Prototypes , LLC , et
 </text>
-</page>
+</page> §
 <page="all_fr-50">
 <text>
    #Le Cahier » Le sarcasme, l’ironie, l’humour noir et le cynisme Flux
@@ -4415,7 +4415,7 @@ Le sarcasme, l’ironie, l’humour noir et le cynisme
    qui l’est c’est d’avoir un humour commun. Parce que ça fait du bien
    d’avoir un fou rire à t’en creuser des abdos. À en avoir mal. Pis rire
 </text>
-</page>
+</page> §
 <page="all_fr-51">
 <text>
 
@@ -4438,7 +4438,7 @@ subi de la jalousie, du sarcasme… »
    toujours facile, surtout quand vous êtes à la Une des journaux, que
    vous êtes l’objet de rumeurs… Les gamins ne sont pas toujours très
 </text>
-</page>
+</page> §
 <page="all_fr-52">
 <text>
    Cinéma
@@ -4447,7 +4447,7 @@ Les 13 meilleures comédies noires pour les fans de sarcasme
 
    De Parasite à The Ladykillers, ces histoires sont brutales,
 </text>
-</page>
+</page> §
 <page="all_fr-53">
 <text>
      * Régions
@@ -4463,7 +4463,7 @@ Internet
    ces codes et ce vocabulaire commun, qui ne sont pas toujours compris de
    tous, permettent de renforcer l’entre-soi, de donner l’illusion d’être
 </text>
-</page>
+</page> §
 <page="all_fr-54">
 <text>
      * Vérification
@@ -4486,7 +4486,7 @@ Internet
    largement répandue depuis le milieu de l’été. Un épisode en particulier
    semble l’avoir popularisée. Le 22 juillet, sur le réseau social Twitter
 </text>
-</page>
+</page> §
 <page="all_fr-55">
 <text>
      * Gabriel Attal
@@ -4495,7 +4495,7 @@ Gabriel Attal à Matignon : les sarcasmes à peine déguisés de Bruno Le Maire
 
 Billet politique. Dans un message de félicitations, agrémenté d’une photo
 </text>
-</page>
+</page> §
 <page="all_fr-6">
 <text>
     2. Blogs »
@@ -4631,7 +4631,7 @@ conclusion
    développerez un personnage, réfléchissez à la façon dont l’ironie
    situationnelle peut ajouter de la profondeur à votre histoire.
 </text>
-</page>
+</page> §
 <page="all_fr-7">
 <text>
    Chroniques
@@ -4714,7 +4714,7 @@ conclusion
    bien de chez nous n’est pas si mal pour affronter le réel…
    Qu’en pensez-vous ? Participez au dialogue
 </text>
-</page>
+</page> §
 <page="all_fr-8">
 <text>
    [ ] Basculer la table des matières
@@ -4832,7 +4832,7 @@ Bibliographie[modifier | modifier le code]
 
    Catégories cachées :
 </text>
-</page>
+</page> §
 <page="all_fr-9">
 <text>
      __________________________________________________________________
@@ -4889,5 +4889,5 @@ Bibliographie[modifier | modifier le code]
    représentation première permet ainsi d'appréhender la complexité voire
    l'ambiguïté de l'œuvre, ses rapports avec le roman traditionnel, sa
 </text>
-</page>
+</page> §
 </lang>

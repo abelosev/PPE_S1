@@ -12,10 +12,10 @@ lineno=1
 echo "<lang=\"$basename\">" > "./itrameur/$folder-$basename.txt"
 
 # Pour les contextes/dump_text russes
-# export LC_ALL=ru_RU.UTF-8
+export LC_ALL=ru_RU.UTF-8
 
 # Pour les contextes/dump_text français
-export LC_ALL=fr_FR.UTF-8
+# export LC_ALL=fr_FR.UTF-8
 
 for filepath in "$folder/$basename"*.txt; do
     pagename=$(basename "$filepath" .txt)
@@ -38,7 +38,7 @@ for filepath in "$folder/$basename"*.txt; do
     
     echo "$content" >> "itrameur/$folder-$basename.txt"
     echo "</text>" >> "itrameur/$folder-$basename.txt"
-    echo "</page>" >> "itrameur/$folder-$basename.txt"
+    echo "</page> §" >> "itrameur/$folder-$basename.txt"
     
     lineno=$((lineno+1))
 done

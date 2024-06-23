@@ -819,7 +819,7 @@
      * Только Новые Клиенты
      * Полная Цена После Ознакомительного Предложения
 </text>
-</page>
+</page> §
 <page="all_rus-10">
 <text>
    #alternate alternate
@@ -1032,7 +1032,7 @@
 
    Рейтинг@Mail.ru Рейтинг@Mail.ru Рейтинг@Mail.ru Рейтинг@Mail.ru
 </text>
-</page>
+</page> §
 <page="all_rus-11">
 <text>
    #alternate alternate
@@ -1203,7 +1203,7 @@
 
    Рейтинг@Mail.ru Рейтинг@Mail.ru Рейтинг@Mail.ru Рейтинг@Mail.ru
 </text>
-</page>
+</page> §
 <page="all_rus-12">
 <text>
 
@@ -2866,7 +2866,7 @@
    Made on
    Tilda
 </text>
-</page>
+</page> §
 <page="all_rus-13">
 <text>
    #alternate
@@ -3196,7 +3196,7 @@
 
    Прямой эфир
 </text>
-</page>
+</page> §
 <page="all_rus-14">
 <text>
    #Сетевое издание «Онлайн журнал StarHit (СтарХит)
@@ -3385,7 +3385,7 @@
        воспроизведение материалов сайта без разрешения редакции
        воспрещается.
 </text>
-</page>
+</page> §
 <page="all_rus-15">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N6R4GKL
@@ -3617,7 +3617,7 @@ EUR
 
    Система Orphus
 </text>
-</page>
+</page> §
 <page="all_rus-16">
 <text>
 Меню
@@ -3941,7 +3941,7 @@ EUR
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_rus-17">
 <text>
    #syg.ma
@@ -4075,7 +4075,7 @@ Building solidarity beyond borders. Everybody can contribute
    (BUTTON) Sign upAbout
    Stay tuned: Telegram, FB, VK, Instagram, YouTube, Twitter, RSS
 </text>
-</page>
+</page> §
 <page="all_rus-18">
 <text>
    Рейтинг@Mail.ru
@@ -4122,7 +4122,7 @@ Building solidarity beyond borders. Everybody can contribute
    операция будет продолжена.
    Владимир ЗеленскийМария ЗахароваПереговоры
 </text>
-</page>
+</page> §
 <page="all_rus-19">
 <text>
    (BUTTON) Меню
@@ -4248,7 +4248,7 @@ Building solidarity beyond borders. Everybody can contribute
    Семья Александра Ширвиндта унаследует комнату в коммуналке и полторы
    квартиры (подробнее)
 </text>
-</page>
+</page> §
 <page="all_rus-2">
 <text>
 
@@ -4475,7 +4475,7 @@ Building solidarity beyond borders. Everybody can contribute
    © 2024
    Политика конфиденциальности
 </text>
-</page>
+</page> §
 <page="all_rus-20">
 <text>
    #Нож » Лента
@@ -4784,7 +4784,7 @@ Building solidarity beyond borders. Everybody can contribute
    Используя сайт, вы принимаете условия пользовательского соглашения
    и политику конфиденциальности данных.
 </text>
-</page>
+</page> §
 <page="all_rus-21">
 <text>
    (BUTTON) Меню
@@ -4851,7 +4851,7 @@ Building solidarity beyond borders. Everybody can contribute
    Европой сможет «скоро закрыться», поэтому страны ЕС должны рассчитывать
    только на себя, даже внутри НАТО.
 </text>
-</page>
+</page> §
 <page="all_rus-22">
 <text>
 
@@ -5107,7 +5107,7 @@ Building solidarity beyond borders. Everybody can contribute
    для творчества.
    Подписаться!
 </text>
-</page>
+</page> §
 <page="all_rus-23">
 <text>
     #МУСАГЕТ » Лента комментариев к ««Ирония» – можно ли её использовать?»
@@ -5338,7 +5338,7 @@ Building solidarity beyond borders. Everybody can contribute
    Этот сайт использует cookie для хранения данных. Продолжая использовать
    сайт, Вы даете свое согласие на работу с этими файлами. (BUTTON) OK
 </text>
-</page>
+</page> §
 <page="all_rus-24">
 <text>
    (BUTTON)
@@ -6680,12 +6680,12 @@ Building solidarity beyond borders. Everybody can contribute
 
    (BUTTON) Продолжение на ЛитРес
 </text>
-</page>
+</page> §
 <page="all_rus-25">
 <text>
 
 </text>
-</page>
+</page> §
 <page="all_rus-26">
 <text>
    logo rukav22.ru
@@ -6874,7 +6874,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    © 2024 rukav22.ru rss
 </text>
-</page>
+</page> §
 <page="all_rus-27">
 <text>
    #Блог Alter » Лента Блог Alter » Лента комментариев Блог Alter » Лента
@@ -7389,7 +7389,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WFMR63G
 </text>
-</page>
+</page> §
 <page="all_rus-28">
 <text>
    b733e4 (BUTTON)
@@ -7662,7 +7662,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W9V46F
 </text>
-</page>
+</page> §
 <page="all_rus-29">
 <text>
    #Викитропы (ru) Викитропы — Atom-лента
@@ -7943,7 +7943,7 @@ Building solidarity beyond borders. Everybody can contribute
      * CC-BY-SA 3.0
      * Powered by MediaWiki
 </text>
-</page>
+</page> §
 <page="all_rus-3">
 <text>
     (BUTTON) Наши проекты
@@ -8134,7 +8134,7 @@ Building solidarity beyond borders. Everybody can contribute
    (BUTTON) Больше новостей
    (BUTTON)
 </text>
-</page>
+</page> §
 <page="all_rus-30">
 <text>
    #Mamaland - Белорусский интернет-портал для родителей Mamaland -
@@ -8736,7 +8736,7 @@ Building solidarity beyond borders. Everybody can contribute
    правилами сайта.
    Зарегистрироваться
 </text>
-</page>
+</page> §
 <page="all_rus-31">
 <text>
    [tr?id=239130136816992&amp;ev=PageView&amp;noscript=1]
@@ -8886,7 +8886,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    Спасибо, Ваше сообщение успешно отправлено.
 </text>
-</page>
+</page> §
 <page="all_rus-32">
 <text>
    (BUTTON) поиск (BUTTON)
@@ -9158,7 +9158,7 @@ Building solidarity beyond borders. Everybody can contribute
    воспроизведение, распространение, создание производных произведений, а
    также на демонстрацию материалов и доведение их до всеобщего сведения.
 </text>
-</page>
+</page> §
 <page="all_rus-33">
 <text>
      [Subtract.svg]
@@ -9693,7 +9693,7 @@ Building solidarity beyond borders. Everybody can contribute
    Публичная оферта Согласие на обработку персональных данных Согласие на
    получение информационной и рекламной рассылки
 </text>
-</page>
+</page> §
 <page="all_rus-34">
 <text>
    #alternate alternate Новости на zn.ua
@@ -10040,7 +10040,7 @@ Building solidarity beyond borders. Everybody can contribute
    [BUTTON Input] (not implemented)____________ [BUTTON Input] (not
    implemented)__________________
 </text>
-</page>
+</page> §
 <page="all_rus-35">
 <text>
    #Править Неолурк, народный Lurkmore (ru) Неолурк, народный Lurkmore —
@@ -10491,7 +10491,7 @@ Building solidarity beyond borders. Everybody can contribute
 
      * Powered by MediaWiki
 </text>
-</page>
+</page> §
 <page="all_rus-36">
 <text>
    #alternate alternate RSS Feed
@@ -10629,7 +10629,7 @@ Building solidarity beyond borders. Everybody can contribute
    18+
    Push-уведомления: Выключены Включены
 </text>
-</page>
+</page> §
 <page="all_rus-37">
 <text>
    #alternate alternate alternate
@@ -11092,7 +11092,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N24V2BL
 </text>
-</page>
+</page> §
 <page="all_rus-38">
 <text>
    Top.Mail.Ru
@@ -11286,7 +11286,7 @@ Building solidarity beyond borders. Everybody can contribute
    Спасибо за ваше сообщение, мы скоро все поправим.
    Продолжить чтение
 </text>
-</page>
+</page> §
 <page="all_rus-39">
 <text>
    (BUTTON) поиск (BUTTON)
@@ -11472,7 +11472,7 @@ Building solidarity beyond borders. Everybody can contribute
    зарегистрировано в Федеральной службе по надзору в сфере связи,
    информационных технологий и массовых коммуникаций.
 </text>
-</page>
+</page> §
 <page="all_rus-4">
 <text>
    #Викитропы (ru) Викитропы — Atom-лента
@@ -11902,7 +11902,7 @@ Building solidarity beyond borders. Everybody can contribute
      * CC-BY-SA 3.0
      * Powered by MediaWiki
 </text>
-</page>
+</page> §
 <page="all_rus-40">
 <text>
    Top.Mail.Ru
@@ -12324,7 +12324,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    jitsu gif
 </text>
-</page>
+</page> §
 <page="all_rus-41">
 <text>
     [top100.cnt?pid=127846]
@@ -12471,7 +12471,7 @@ Building solidarity beyond borders. Everybody can contribute
    На информационном ресурсе применяются рекомендательные технологии
    в соответствии с Правилами
 </text>
-</page>
+</page> §
 <page="all_rus-42">
 <text>
    #Блог Викиум » Лента Блог Викиум » Лента комментариев Советы психолога:
@@ -12736,7 +12736,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    © Викиум.ру 2013 – 2024
 </text>
-</page>
+</page> §
 <page="all_rus-43">
 <text>
     #МУСАГЕТ » Лента комментариев к «Сарказм — для образованных людей»
@@ -12935,7 +12935,7 @@ Building solidarity beyond borders. Everybody can contribute
    Этот сайт использует cookie для хранения данных. Продолжая использовать
    сайт, Вы даете свое согласие на работу с этими файлами. (BUTTON) OK
 </text>
-</page>
+</page> §
 <page="all_rus-44">
 <text>
    [ ]
@@ -13410,7 +13410,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    16+
 </text>
-</page>
+</page> §
 <page="all_rus-45">
 <text>
     #Библиотека психологии » Лента Библиотека психологии » Лента
@@ -13828,7 +13828,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    Copyright © Библиотека психологии - psylib.org
 </text>
-</page>
+</page> §
 <page="all_rus-46">
 <text>
    Значения слов
@@ -14190,7 +14190,7 @@ Building solidarity beyond borders. Everybody can contribute
      * (BUTTON) Слова-паронимы
      * (BUTTON) Ударения в слова
 </text>
-</page>
+</page> §
 <page="all_rus-47">
 <text>
    #BroDude.ru » Лента BroDude.ru » Лента комментариев
@@ -14512,7 +14512,7 @@ Building solidarity beyond borders. Everybody can contribute
    ____________________ (BUTTON) Восстановить
    (BUTTON) Вход (BUTTON) Регистрация
 </text>
-</page>
+</page> §
 <page="all_rus-48">
 <text>
    #Править Posmotreli (ru) Posmotreli — Atom-лента
@@ -15001,7 +15001,7 @@ Building solidarity beyond borders. Everybody can contribute
 
      * Powered by MediaWiki
 </text>
-</page>
+</page> §
 <page="all_rus-49">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WW2962J
@@ -15364,7 +15364,7 @@ Building solidarity beyond borders. Everybody can contribute
    установите специальные настройки в браузере или обратитесь в
    техподдержку. ОК
 </text>
-</page>
+</page> §
 <page="all_rus-5">
 <text>
      * Новости
@@ -15500,7 +15500,7 @@ Building solidarity beyond borders. Everybody can contribute
    Центр защиты прав человека «Мемориал» использует европейскую политику
    сбора и хранения данных пользователей GDPR
 </text>
-</page>
+</page> §
 <page="all_rus-50">
 <text>
     #Психология в помощь Klarcus
@@ -15732,7 +15732,7 @@ Building solidarity beyond borders. Everybody can contribute
 
    klarcus.ru/psychologist © Психология в помощь
 </text>
-</page>
+</page> §
 <page="all_rus-6">
 <text>
     #Хемингуэй позвонит
@@ -15877,7 +15877,7 @@ Building solidarity beyond borders. Everybody can contribute
    [tildacopy.png]
    Tilda
 </text>
-</page>
+</page> §
 <page="all_rus-7">
 <text>
     robot
@@ -15885,7 +15885,7 @@ Building solidarity beyond borders. Everybody can contribute
    logo DDoS-Guard
    Protection and Acceleration by DDoS-Guard
 </text>
-</page>
+</page> §
 <page="all_rus-8">
 <text>
    Календарь событий Уличные выступления Куда пойти Медиацентр
@@ -16117,7 +16117,7 @@ Building solidarity beyond borders. Everybody can contribute
    Мы свяжемся с вами в ближайшее время
    (BUTTON) Хорошо
 </text>
-</page>
+</page> §
 <page="all_rus-9">
 <text>
    Mail.ruПочтаМой
@@ -16273,5 +16273,5 @@ Building solidarity beyond borders. Everybody can contribute
 
    Рейтинг@Mail.ru
 </text>
-</page>
+</page> §
 </lang>
